@@ -25,7 +25,7 @@
 	 	height: 100%;
  		margin : 0px;
  		padding: 0px;
- 		background-image: url("https://i.imgur.com/Kz03vjz.png");
+ 		background-image: url("https://i.imgur.com/KpKI35u.png");
  		background-repeat: no-repeat;
 		background-size: contain;
 	}
